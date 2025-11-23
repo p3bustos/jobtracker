@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: job-tracker
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /actuator/health
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: docker
+      - key: SERVER_PORT
+        value: 8080
