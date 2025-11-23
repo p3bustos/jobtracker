@@ -1,0 +1,9 @@
+/Users/esteban/Documents/GitHub/jobtracker/src/main/java/com/jobtracker/dto/JobApplicationResponse.java
+/Users/esteban/Documents/GitHub/jobtracker/src/main/java/com/jobtracker/service/JobApplicationService.java
+/Users/esteban/Documents/GitHub/jobtracker/src/main/java/com/jobtracker/JobTrackerApplication.java
+/Users/esteban/Documents/GitHub/jobtracker/src/main/java/com/jobtracker/controller/JobApplicationController.java
+/Users/esteban/Documents/GitHub/jobtracker/src/main/java/com/jobtracker/service/ResourceNotFoundException.java
+/Users/esteban/Documents/GitHub/jobtracker/src/main/java/com/jobtracker/entity/JobApplication.java
+/Users/esteban/Documents/GitHub/jobtracker/src/main/java/com/jobtracker/exception/GlobalExceptionHandler.java
+/Users/esteban/Documents/GitHub/jobtracker/src/main/java/com/jobtracker/dto/JobApplicationRequest.java
+/Users/esteban/Documents/GitHub/jobtracker/src/main/java/com/jobtracker/repository/JobApplicationRepository.java
