@@ -71,6 +71,19 @@ mvn spring-boot:run
 
 The application will start on `http://localhost:8080`
 
+# Deploy
+render deploy
+```
+
+**Render Configuration:**
+- **Environment:** Docker
+- **Plan:** Free (750 hours/month)
+- **Health Check:** `/actuator/health`
+- **Auto-deploy:** Enabled on push to main branch
+
+> **Note:** Free tier services spin down after 15 minutes of inactivity. First request after sleep takes 30-60 seconds.
+```
+
 ### Access Points
 - **API Base URL**: `http://localhost:8080/api/applications`
 - **Swagger UI**: `http://localhost:8080/swagger-ui.html`
