@@ -53,3 +53,8 @@ logs/
 *.zip
 *.tar.gz
 *.rar
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
